@@ -10,16 +10,21 @@
 .menu{
     flex: 5%;
     background-color: white;
+    display: flex;
 }
+.menu a{
+    padding: 15px 20px;
+    
+}   
 .content{
     flex: 70%; 
-    background-color: pink;
+    background-color: lightgrey;
 }
 .content iframe{
     flex: 1;
     border: none;
     width: 100%;
-    height: 100vh;
+    height: 100%;
 }
 .footer{
     flex: 10%;
