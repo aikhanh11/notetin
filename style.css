@@ -9,8 +9,8 @@
 }
     .menu{
     flex: 5%;
-    background-color: white;
-    color: darkgray;
+    background-color: darkgray;
+    color: white;
     display: flex;
 }
 .menu a{
@@ -22,7 +22,7 @@
 }
 .content{
     flex: 70%; 
-    background-color: lightgray;
+    background-color: white;
 }
 .content iframe{
     flex: 1;
@@ -32,7 +32,7 @@
 }
 .footer{
     flex: 10%;
-    background-color: blue;
+    background-color: red;
 }
 h1 {
 color: red;
@@ -42,7 +42,7 @@ td {
   text-align: center;
 }
 .tieude {
-  color: tomato;
+  color: red;
  font-size: 25pt;
  top-margin: 18pt;
 }
