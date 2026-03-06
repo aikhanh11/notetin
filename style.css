@@ -5,8 +5,9 @@
  }
 .header{
     flex: 15%;
-    background: url("../image/IMG_1390.png") center / 100%
-.menu{
+    background: url("../image/IMG_1390.png") center / 100%;
+}
+    .menu{
     flex: 5%;
     background-color: white;
     color: darkgray;
