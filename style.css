@@ -10,7 +10,7 @@
 }
     .menu{
     flex: 5%;
-    background-color: lightblue;
+    background-color: cyan;
     color: white;
     display: flex;
 }
@@ -18,7 +18,7 @@
     padding: 15px 20px;   
 }   
 .menu a: hover{
-    background-color: cyan;
+    background-color: darkblue;
     color: black;
 }
 .content{
