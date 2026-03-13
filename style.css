@@ -33,10 +33,10 @@
 }
 .footer{
     flex: 10%;
-    background-color: red;
+    background-color: lightgray;
 }
 h1 {
-color: red;
+color: lightgray;
  text-align: center;
 }
 td {
